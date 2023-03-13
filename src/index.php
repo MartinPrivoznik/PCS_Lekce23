@@ -73,6 +73,7 @@
     echo "$city je největší město České republiky";
     echo "<br/>";
     echo "$country a $city rychle rostou";
+    echo "změna GIT"
     ?>
 
     <br />
