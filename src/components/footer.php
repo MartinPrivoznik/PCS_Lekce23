@@ -1,0 +1,3 @@
+<footer>
+    Nejaka paticka
+</footer>
