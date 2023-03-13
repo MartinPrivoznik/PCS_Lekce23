@@ -1,3 +1,3 @@
 <footer>
-    Nejaka paticka
+    Supr dupr patička
 </footer>
